@@ -21,11 +21,15 @@ Analizar y determinar en forma experimental los valores medios y eficaces en un 
 
 
 #### 3. MATERIALES
+![image](https://user-images.githubusercontent.com/84586968/132257730-9a623e8c-5fb9-4550-b25f-298d4ec5a1eb.png)
+
 
 
 #### 4. PROCEDIMIENTO
 
 **4.1 Implemente el circuito que se presenta en la figura**
+
+![image](https://user-images.githubusercontent.com/84586968/132257750-784da743-2589-465c-830a-ce97d68ff4b3.png)
 
 **4.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.**
 
