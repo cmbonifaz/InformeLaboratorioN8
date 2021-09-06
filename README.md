@@ -33,7 +33,12 @@ Analizar y determinar en forma experimental los valores medios y eficaces en un 
 
 4.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
+![image](https://user-images.githubusercontent.com/84586968/132258304-af10cad8-1d98-488f-bf16-de13dd400a6e.png)
+
+
 4.3 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en  el osciloscopio.
+
+![image](https://user-images.githubusercontent.com/84586968/132258461-656591a5-ad7a-411f-b8a9-d4f5725c9359.png)
 
 #### 5. ANALISIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
 
