@@ -42,28 +42,37 @@ Analizar y determinar en forma experimental los valores medios y eficaces en un 
 
 #### 5. ANALISIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
 
-5.1 Responda las siguientes preguntas:
+**5.1 Responda las siguientes preguntas:**
 
-¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
+**¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
 Abarca un cuadro y un tercio de cuadro aproximadamente
 
-¿En qué valor está posicionada la perilla VOLTS/DIV?
+**¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
 En 10 Volts/div
 
-¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
+**¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
 Cuatro cuadros y un tercios de cuadro abarca un ciclo
 
-¿En qué valor está posicionada la perilla TIME/DIV?
+**¿En qué valor está posicionada la perilla TIME/DIV?**
 
 0.1m time/div
 
-5.2 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
+**5.2 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
 ![image](https://user-images.githubusercontent.com/84586968/132262690-55bb30c2-0a2d-4f3d-862e-3350c99374fd.png)
+
+**5.3 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
  
+**5.4Con el multímetro digital mida el voltaje de salida en RL**
+
+**5.5Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
+
+**¿Coinciden?**
+
+**¿Por qué?**
 
 #### 6. VIDEO
 
