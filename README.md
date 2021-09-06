@@ -65,10 +65,13 @@ Cuatro cuadros y un tercios de cuadro abarca un ciclo
 ![image](https://user-images.githubusercontent.com/84586968/132262690-55bb30c2-0a2d-4f3d-862e-3350c99374fd.png)
 
 **5.3 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
+
+![image](https://user-images.githubusercontent.com/84586968/132263052-ce5ba700-d4e0-443b-abb0-43c04ecc126e.png)
  
 **5.4Con el multímetro digital mida el voltaje de salida en RL**
 
-**5.5Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.**
+
+**5.5Compare el voltaje medido en el punto 5.2 y el obtenido en el punto 5.4 .**
 
 **¿Coinciden?**
 
