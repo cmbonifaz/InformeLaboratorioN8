@@ -38,7 +38,7 @@ Analizar y determinar en forma experimental los valores medios y eficaces en un 
 
 4.3 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en  el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/84586968/132258461-656591a5-ad7a-411f-b8a9-d4f5725c9359.png)
+![image](https://user-images.githubusercontent.com/84586968/132259211-cf654cca-6f5c-425e-91bb-3b082d3b3b99.png)
 
 #### 5. ANALISIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
 
