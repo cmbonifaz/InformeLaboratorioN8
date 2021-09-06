@@ -53,7 +53,8 @@ Abarca un cuadro y un tercio de cuadro aproximadamente
 En 10 Volts/div
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
-Cuatro cuadros y un tercios de cuadro
+
+Cuatro cuadros y un tercios de cuadro abarca un ciclo
 
 ¿En qué valor está posicionada la perilla TIME/DIV?
 
