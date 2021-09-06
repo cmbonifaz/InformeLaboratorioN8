@@ -14,6 +14,9 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/85208164/132167413-cb38a310-6c6d-4855-8f53-979367a6ee4c.png)
+
+
 #### 3. MATERIALES
 
 #### 4. PROCEDIMIENTO
