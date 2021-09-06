@@ -70,6 +70,7 @@ Cuatro cuadros y un tercios de cuadro abarca un ciclo
  
 **5.4Con el multímetro digital mida el voltaje de salida en RL**
 
+![image](https://user-images.githubusercontent.com/84586968/132263245-8f073fde-842a-4423-83f5-8414a931ebf1.png)
 
 **5.5Compare el voltaje medido en el punto 5.2 y el obtenido en el punto 5.4 .**
 
