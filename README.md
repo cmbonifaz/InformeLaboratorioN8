@@ -60,7 +60,8 @@ Cuatro cuadros y un tercios de cuadro
 0.1m time/div
 
 5.2 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?
- Su Amplitud 12.73V
+
+![image](https://user-images.githubusercontent.com/84586968/132262690-55bb30c2-0a2d-4f3d-862e-3350c99374fd.png)
  
 
 #### 6. VIDEO
