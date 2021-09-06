@@ -76,7 +76,11 @@ Cuatro cuadros y un tercios de cuadro abarca un ciclo
 
 **¿Coinciden?**
 
+No coincicen
+
 **¿Por qué?**
+
+Porque el multimetro cuando medimos corriente ca nos muestra el voltaje en rms en cambio en el osciloscopio vemos el voltaje maximo directamente.
 
 #### 6. VIDEO
 
