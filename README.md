@@ -62,13 +62,14 @@ Cuatro cuadros y un tercios de cuadro abarca un ciclo
 
 0.1m time/div
 
+
 **5.2 ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla del osciloscopio?**
 
-![image](https://user-images.githubusercontent.com/84586968/132262690-55bb30c2-0a2d-4f3d-862e-3350c99374fd.png)
+![image](https://user-images.githubusercontent.com/84586968/132342780-d09af5bc-fa63-4574-8578-849ff6eaef1d.png)
 
 **5.3 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
 
-![image](https://user-images.githubusercontent.com/84586968/132263052-ce5ba700-d4e0-443b-abb0-43c04ecc126e.png)
+![image](https://user-images.githubusercontent.com/84586968/132342797-96f5bdb6-7ae1-44bb-ac8f-bc140cdc1ab1.png)
  
 **5.4Con el multímetro digital mida el voltaje de salida en RL**
 
