@@ -84,6 +84,8 @@ Porque el multimetro cuando medimos corriente ca nos muestra el voltaje en rms e
 
 #### 6. VIDEO
 
+[Simulación de Circuito - Laboratorio N°8](https://youtu.be/y8V3sI6EIKI "Simulación de Circuito - Laboratorio N°8")
+
 #### 7. CONCLUSIONES
 
 El osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas. El uso y la manipulación del osciloscopio va a ser muy requerida, ya que gracias   a   este   instrumento   podremos   encontrar   valores   como   el   valor eficaz, el valor pico, la frecuencia de la onda, etc.
