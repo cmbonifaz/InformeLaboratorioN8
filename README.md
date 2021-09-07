@@ -16,6 +16,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 - Analizar la representacion de la onda senoidal obtenida mediante la utilizacion de un osciloscopio.
 
+- Representar lo aprendido en clase de manera practica y concisa
+
 
 #### 2. MARCO TEÓRICO
 
@@ -91,7 +93,11 @@ Porque el multimetro cuando medimos corriente ca nos muestra el voltaje en rms e
 
 #### 7. CONCLUSIONES
 
-El osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas. El uso y la manipulación del osciloscopio va a ser muy requerida, ya que gracias   a   este   instrumento   podremos   encontrar   valores   como   el   valor eficaz, el valor pico, la frecuencia de la onda, etc.
+- El osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas. El uso y la manipulación del osciloscopio va a ser muy requerida, ya que gracias   a   este   instrumento   podremos   encontrar   valores   como   el   valor eficaz, el valor pico, la frecuencia de la onda, etc.
+
+- LLegamos a las conclusion que el ocsiloscopio es una herramienta para medir de forma cualitativa y cuantitativa a diferencia del multimetro que es una analogo.
+
+- Observamos la gran diferencia de medidicion del multimetro en el simulador en cual nos entrega en rms mientras que en el osciloscopio podemos emdir con mas precision.
 
 
 #### 8. BIBLIOGRAFÍA
