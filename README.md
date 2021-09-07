@@ -8,7 +8,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **Docente:** Ing. Darwin Alulema
 
-**Tema:** 
+**Tema:** CARACTERÍSTICAS DE LA ONDA SENOIDAL
 
 #### 1. OBJETIVOS
 
