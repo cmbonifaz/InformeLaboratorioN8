@@ -71,10 +71,6 @@ Cuatro cuadros abarca un ciclo
 
 ![image](https://user-images.githubusercontent.com/84586968/132351798-a5d17725-fdb9-4cc0-8f52-c4ec6649cc93.png)
 
- 
-
-![image](https://user-images.githubusercontent.com/84586968/132342780-d09af5bc-fa63-4574-8578-849ff6eaef1d.png)
-
 **5.3 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de salida.**
 
 ![image](https://user-images.githubusercontent.com/84586968/132351839-a208de1b-c72c-4294-86ba-af257dbd8459.png))
