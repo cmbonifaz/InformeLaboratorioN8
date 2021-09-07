@@ -12,7 +12,9 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 #### 1. OBJETIVOS
 
-Analizar y determinar en forma experimental los valores medios y eficaces en un circuito de C.A. resistivo, con rectificador de media onda y con rectificador de onda completa. Conocer los instrumentos que miden estos valores (valor medio y valor eficaz).
+- Analizar y determinar en forma experimental los valores medios y eficaces en un circuito de C.A. resistivo, con rectificador de media onda y con rectificador de onda completa. Conocer los instrumentos que miden estos valores (valor medio y valor eficaz).
+
+- Analizar la representacion de la onda senoidal obtenida mediante la utilizacion de un osciloscopio.
 
 
 #### 2. MARCO TEÓRICO
