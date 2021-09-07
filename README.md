@@ -37,12 +37,14 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 4.2 Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
 
-![image](https://user-images.githubusercontent.com/84586968/132258304-af10cad8-1d98-488f-bf16-de13dd400a6e.png)
+![image](https://user-images.githubusercontent.com/84586968/132350636-bba72e08-7617-43b5-a4c4-dc655b36885f.png)
 
 
 4.3 Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en  el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/84586968/132259211-cf654cca-6f5c-425e-91bb-3b082d3b3b99.png)
+
+![image](https://user-images.githubusercontent.com/84586968/132350813-61d23120-9182-4f77-8712-58ad390f2133.png)
+
 
 #### 5. ANALISIS DEL PROBLEMA Y RESPUESTA A INTERROGANTES
 
@@ -50,15 +52,15 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
-Abarca un cuadro y un tercio de cuadro aproximadamente
+Abarca dos cuadro y un tercio de cuadro aproximadamente
 
 **¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
-En 10 Volts/div
+En 3 Volts/div
 
 **¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?**
 
-Cuatro cuadros y un tercios de cuadro abarca un ciclo
+Cuatro cuadros abarca un ciclo
 
 **¿En qué valor está posicionada la perilla TIME/DIV?**
 
