@@ -52,7 +52,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?**
 
-Abarca dos cuadro y un cuarto de cuadro aproximadamente
+Abarca dos cuadros y un cuarto de cuadro aproximadamente
 
 **¿En qué valor está posicionada la perilla VOLTS/DIV?**
 
